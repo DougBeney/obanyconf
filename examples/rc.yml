@@ -1,0 +1,10 @@
+theme:
+  name: "Clearlooks-3.4"
+desktops:
+  names:
+    name: Desktop 1
+    name: Desktop 2
+    name: Desktop 3
+    name: Desktop 4
+keyboard:
+  chainQuitKey: "C-g"
